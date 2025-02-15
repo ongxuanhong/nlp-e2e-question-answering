@@ -1,0 +1,5 @@
+datasets==2.16.1
+evaluate==0.4.1
+transformers[sentencepiece]==4.35.2
+accelerate==0.26.1
+ipywidgets==8.1.5
